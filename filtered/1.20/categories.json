@@ -1,0 +1,32 @@
+{
+  "1": {
+    "folder": "armor"
+  },
+  "2": {
+    "folder": "build_blocks"
+  },
+  "3": {
+    "folder": "colored_blocks"
+  },
+  "4": {
+    "folder": "eggs"
+  },
+  "5": {
+    "folder": "food"
+  },
+  "6": {
+    "folder": "functional_blocks"
+  },
+  "7": {
+    "folder": "ingridients"
+  },
+  "8": {
+    "folder": "tools"
+  },
+  "9": {
+    "folder": "weapons"
+  },
+  "10": {
+    "folder": "food\\potions"
+  }
+}
